@@ -1,6 +1,6 @@
 # overview of my entire projects
 
-| **Project Name**        | **Type**            | **Description**                    | **Technology Used**       | **Programming Language** | **Deploy Link**     | **Open Source Link**                | **Database Used** | **Previous Versions** |
+| **Project Name**        | **Type**            | **Description**                    | **Technology Used**       | **Programming Language** | **Deploy Link**     | **Open Source Link**                | **Database Used** | **Versions** |
 |-------------------------|---------------------|------------------------------------|---------------------------|--------------------------|---------------------|-------------------------------------|-------------------|-----------------------|
 | anonymous-chat           | Backend             | A chat application with anonymity. | Flask, Socket.IO          | Python                   | N/A                 | [Link](https://github.com/Komil-jon/anonymous-chat) | None              | v1.0                  |
 | eternal-space-v1         | Web                 | A space-themed interactive page.   | HTML, CSS                 | JavaScript, HTML         | N/A                 | [Link](https://github.com/Komil-jon/eternal-space-v1) | None              | N/A                   |
